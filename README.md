@@ -1,6 +1,6 @@
 ![banner](./assets/banner.webp)
 
-## revertNBlogReactionBtn
+## Revert Naver Blog Reaction Button
 
 ### 설치 방법
 
